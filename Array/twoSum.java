@@ -10,7 +10,7 @@ with thier indices. You now compute the complement for each element in the nums 
 using a for loop and check if that value is present as a element in the hashmap, if you
 find an element in hashmap that is equal to the computed complement whose index is not 
 as same as the element for which you complemented you're done and you're required to 
-return the indices of the element that you complimented and also the compliment value itself*/
+return the indices of the element that you complimented and also the index of the compliment itself*/
 
 class blind75{
     static int[] twoSum(int [] nums, int target){
