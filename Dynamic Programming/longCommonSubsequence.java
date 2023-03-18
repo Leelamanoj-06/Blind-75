@@ -10,6 +10,11 @@
  * When you are done iterating for n times return curr[0]
  */
 
+ /*
+  * Time Complexity = O(n^2)
+  * Space Complexity = O(n)
+  */
+
 import java.util.Arrays;
 
 class Solution {
