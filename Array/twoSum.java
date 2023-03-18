@@ -12,6 +12,10 @@ find an element in hashmap that is equal to the computed complement whose index 
 as same as the element for which you complemented you're done and you're required to 
 return the indices of the element that you complimented and also the index of the compliment itself*/
 
+/* Time Complexity = O(n) 
+ * Space Complexity = O(n)
+*/
+
 class blind75{
     static int[] twoSum(int [] nums, int target){
         Map<Integer, Integer> map = new HashMap<>();
